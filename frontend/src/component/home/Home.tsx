@@ -23,7 +23,7 @@ const Home: React.FC= () => {
       <MetaData title="Home"/>
       <div className="banner">
        
-        <h1>Camera-TopOne</h1>
+        <h1>Xin chao Camera-TopOne</h1>
       </div>
 
       <h2 className="homeHeading">Sản phẩm nổi bật</h2>
